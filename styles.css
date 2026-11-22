@@ -1,5 +1,7 @@
-  body{
-     background: brown;
-        color: white;
-        font-family: Orbitron, sans-serif;
-     }
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+body {
+    background: #111111;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
